@@ -1,7 +1,8 @@
 # 下载链接 [Download Links]
 
 > 提示：暂不支持直接在github打开，请下载后查看!<br>
-> Tips: browse pdf file directly on github not supported yet, here are download links!
+> Tips here: Direct browsing pdf file on github is not perfect supported yet in consequence of the file size. <br>
+> Please view the download links below:
 
 - [[CPP.Primer.Plus(6th,2011.10)].Stephen.Prata.文字版.pdf](https://raw.githubusercontent.com/johnnynode/ebooks-c-plus-plus/master/[CPP.Primer.Plus(6th,2011.10)].Stephen.Prata.文字版.pdf)
 - [[C语言深度剖析.-.解开程序员面试笔试的秘密].陈正冲.石虎.文字版.pdf](https://raw.githubusercontent.com/johnnynode/ebooks-c-plus-plus/master/[C语言深度剖析.-.解开程序员面试笔试的秘密].陈正冲.石虎.文字版.pdf)
